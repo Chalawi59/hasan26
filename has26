@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1,|AR| MBC 2
+http://iptv6.premium-stv.com:25461/live/pro2arab@arar/ghh@GT@jjGY/2440.m3u8
+#EXTINF:-1,|AR| MBC Action
+http://iptv6.premium-stv.com:25461/live/pro2arab@arar/ghh@GT@jjGY/2443.m3u8
+#EXTINF:-1,|AR| MBC MAX
+http://iptv6.premium-stv.com:25461/live/pro2arab@arar/ghh@GT@jjGY/2448.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 2 SD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC MAX 
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC ACTION 
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:-1,AR: Netfilx Action
+http://95.154.194.84:8000/live/3E3tfSepRV/CHoDruHskE/90847.m3u8
+#EXTINF:-1,AR: Netfilx Action+2
+http://95.154.194.84:8000/live/3E3tfSepRV/CHoDruHskE/90848.m3u8
+#EXTINF:-1,OSN: Star World HD
+http://95.154.194.84:8000/live/3E3tfSepRV/CHoDruHskE/90691.m3u8
+#EXTINF:-1,OSN: Star Movies HD
+http://95.154.194.84:8000/live/3E3tfSepRV/CHoDruHskE/90692.m3u8
+#EXTINF:-1,MBC 2
+http://46.60.1.66:8008/live/oxRSKDehue/odfOHMvhBz/12.m3u8
+#EXTINF:-1,MBC Action
+http://46.60.1.66:8008/live/oxRSKDehue/odfOHMvhBz/16.m3u8
+#EXTINF:-1,MBC Max
+http://46.60.1.66:8008/live/oxRSKDehue/odfOHMvhBz/25853.m3u8
+#EXTINF:-1,|AR| ALARABIA FHD
+http://185.23.213.162:8789/live/ania/ania/23062.m3u8
+#EXTINF:-1,|AR| ALARBIA ALHADATH
+http://iptv6.premium-stv.com:25461/pro2arab@arar/ghh@GT@jjGY/2303
+#EXTINF:-1,Al Hadath
+http://46.60.1.66:8008/live/oxRSKDehue/odfOHMvhBz/9759.m3u8
+#EXTINF:-1,Al Arabiya
+http://46.60.1.66:8008/live/oxRSKDehue/odfOHMvhBz/9758.m3u8
+#EXTINF:-1,|AR| Al-Arabiya Alhadath
+ht#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Arabiya HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Hadath News HD
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_720p.m3u8tp://iptv6.premium-stv.com:25461/live/pro2arab@arar/ghh@GT@jjGY/2303.m3u8
+#EXTINF:-1,*ARB- Al Arabiya ARB*
+http://95.154.194.84:8000/live/3E3tfSepRV/CHoDruHskE/32470.m3u8
+#EXTINF:-1,*ARB- AL Arabia AL Hadath ARB*
+http://95.154.194.84:8000/live/3E3tfSepRV/CHoDruHskE/32510.m3u8
